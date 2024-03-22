@@ -4,7 +4,7 @@ A Task manager for scheduling your daily life
 
 ## Live Demo
 - you can check out for live hosted demo at 
-- https://katherineoelsner.com
+- https://task-manager-pi-ashy.vercel.app
 ## setup:
 
 ### backend
