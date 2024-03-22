@@ -2,7 +2,6 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { baseUrl, token } from "../../constants";
 import { toast } from "react-hot-toast";
 import axios from "axios";
-import { Navigate } from "react-router-dom";
 
 interface User {
   id: string;
